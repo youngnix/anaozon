@@ -1,0 +1,38 @@
+#about-us-section {
+	font-family: Merriweather, Cantarell, monospace;
+	top: 0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+}
+
+.about-us-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.about-us-image {
+	max-width: 16rem;
+	max-height: auto;
+	flex: 1;
+}
+
+.about-us-header {
+	text-align: center;
+	font-size: clamp(0.5rem, initial + 2vw, 1.5rem);
+}
+
+.about-us-header:last-of-type {
+	font-style: italic;
+}
+
+.about-us-header:first-of-type {
+	font-weight: 700;
+}
+
+.about-us-paragraph {
+	text-indent: 1rem;
+	font-size: clamp(0.5rem, 0.5rem + 1.5vw, 1rem);
+}

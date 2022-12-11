@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264"
+   height="264"
+   viewBox="0 0 69.849999 69.849999"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="anaozon_logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="anaozon_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3088"
+       spacingx="4.2333333"
+       spacingy="4.2333333"
+       originx="-81.491665"
+       originy="-144.99166" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <path
+     style="font-weight:bold;font-size:50.8px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Bold';fill:#ffffff;stroke-width:24.3967;paint-order:stroke fill markers"
+     d="m 3.1749997,3.1750005 c -4.233333,12.6999985 -4.233333,50.7999995 0,63.4999935 12.7000003,4.23334 50.8000003,4.23334 63.4999973,0 4.23334,-12.699994 4.23334,-50.799994 0,-63.4999935 -12.699997,-4.233334 -50.799997,-4.233334 -63.4999973,0 z"
+     id="path3751"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 49.826333,14.4018 h -6.1976 v 3.7592 c -2.3368,-3.0988 -5.1308,-4.419601 -9.1948,-4.419601 -8.3312,0 -14.3256,6.2484 -14.3256,14.8336 0,8.4836 5.9436,14.6304 14.1732,14.6304 3.9624,0 6.6548,-1.2192 9.3472,-4.318 v 3.6576 h 6.1976 z m -14.6812,5.5372 c 4.826,0 8.2804,3.606799 8.2804,8.7376 0,2.031999 -0.8128,4.3688 -2.032,5.7912 -1.3716,1.6764 -3.556,2.54 -6.1468,2.54 -4.9276,0 -8.3312,-3.3528 -8.3312,-8.2804 0,-5.130799 3.4036,-8.788399 8.2296,-8.7884 z"
+     id="path6790"
+     style="font-weight:bold;font-size:50.8px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic Bold';fill:#000000;stroke-width:24.3967;paint-order:stroke fill markers" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-81.49167,-144.99167)">
+    <path
+       style="fill:#ff7f2a;stroke-width:24.3967;paint-order:stroke fill markers"
+       d="m 105.83334,194.73334 c 6.86681,1.62103 14.29985,1.62103 21.16666,0 3.07093,-0.72495 8.46667,-4.23333 8.46667,-4.23333 0,0 -2.00217,6.2355 -4.23333,8.46666 -2.23117,2.23116 -5.39574,3.50838 -8.46667,4.23333 -4.12009,0.97262 -8.57991,0.97262 -12.7,0 -3.07093,-0.72495 -6.23551,-2.00216 -8.46667,-4.23332 -2.231161,-2.23116 -4.23333,-8.46667 -4.23333,-8.46667 0,0 5.39573,3.50838 8.46667,4.23333 z"
+       id="path6723"
+       sodipodi:nodetypes="sscsssscs" />
+    <path
+       style="fill:#ff7f2a;stroke-width:24.3967;paint-order:stroke fill markers"
+       d="m 126.02674,189.79734 c -0.75927,-4.05104 9.40875,-9.17507 13.77799,-6.56821 4.36925,2.60687 4.68934,13.98852 0.76374,15.24439 -3.92559,1.25586 -2.39213,-6.35681 -5.1018,-7.97352 -2.70983,-1.61651 -8.68066,3.34839 -9.43993,-0.70266 z"
+       id="path6788"
+       sodipodi:nodetypes="zzzzz" />
+  </g>
+</svg>

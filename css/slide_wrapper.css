@@ -1,0 +1,36 @@
+.slide-wrapper {
+	overflow: scroll;
+	display: flex;
+	align-items: center;
+	left: 0;
+	right: 0;
+}
+
+.slide-container {
+	display: flex;
+	left: 0;
+	right: 0;
+}
+
+.slide-container li {
+	display: flex;
+}
+
+.slide-wrapper a {
+	text-align: center;
+	width: 4rem;
+	height: 4rem;
+	position: absolute;
+	color: black;
+	text-decoration: none;
+	border-radius: 50px;
+	background-color: #a4a4a4a4;
+}
+
+.slide-wrapper a:first-of-type {
+	left: 0;
+}
+
+.slide-wrapper a:last-of-type {
+	right: 0;
+}

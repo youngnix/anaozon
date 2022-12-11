@@ -1,0 +1,28 @@
+#navigation-belt {
+	height: 3rem;
+	background-color: #232f3e;
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	color: white;
+}
+
+.navigation-belt-hyperlink {
+	color: white;
+}
+
+.navigation-belt-section {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex: 1;
+}
+
+#navigation-menu-button {
+	max-width: 2rem;
+}
+
+#navigation-menu-button img {
+	width: 100%;
+}
+
