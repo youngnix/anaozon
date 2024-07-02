@@ -95,7 +95,7 @@ const catalog = [
 	},
 	{
 		id: 13,
-		name: "Puta anã",
+		name: "Ana",
 		price: 69.69,
 		image: "res/anoes/dafne.webp",
 		rating: 4.5,
